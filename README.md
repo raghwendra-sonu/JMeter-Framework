@@ -1,5 +1,5 @@
 # JMeter-Framework
-Framework Details 
+Framework Details > 
 What's done- 
 Framework development using Java, Maven and JMeter-Maven-Plugin.
 Test script execution is driven by a CSV file, which calls reusable keywords in a sequence.
@@ -10,7 +10,6 @@ Logs generation for debugging of failed tests.
 HTML report generation after the execution of tests with all the details.
 CSV results being generated with the list of timestamp, response message, response code and so on.
 Capability to execute only a given set of test cases and not all.
-Framework integration with CI/CD tools - Azure Pipeline.
 
 🔭 Plan for future- 
 BDD Implementation
