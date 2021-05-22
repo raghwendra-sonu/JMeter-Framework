@@ -1,6 +1,6 @@
 # JMeter-Framework
 Framework Details 
-What's done
+What's done- 
 Framework development using Java, Maven and JMeter-Maven-Plugin.
 Test script execution is driven by a CSV file, which calls reusable keywords in a sequence.
 Separate Test Data file to read all the parameters being used in tests e.g. username, password, URL etc.
@@ -12,7 +12,7 @@ CSV results being generated with the list of timestamp, response message, respon
 Capability to execute only a given set of test cases and not all.
 Framework integration with CI/CD tools - Azure Pipeline.
 
-🔭 Plan for future
+🔭 Plan for future- 
 BDD Implementation
 XRAY Integration
 Tagging tests using Custom Annotations
